@@ -17,3 +17,10 @@ The `student_scores.csv` file consists of two columns:
 - `Hours`: The number of hours a student has studied.
 - `Scores`: The score the student obtained.
 
+## Expected output:
+
+
+
+
+![Figure_1](https://github.com/user-attachments/assets/f20e2395-ac70-496e-b2b2-137c52843437)
+
